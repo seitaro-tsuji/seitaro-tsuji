@@ -1,16 +1,47 @@
-## Hi there 👋
+# 辻 聖太朗
 
-<!--
-**seitaro-tsuji/seitaro-tsuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+京都大学大学院　エネルギー科学研究科　エネルギー変換科学専攻　修士課程（2028年修了予定）
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 自己紹介
+大学、大学院ではプラズマ計測データ解析の研究に取り組み、Pythonを用いた信号解析やデータ解析プログラムを開発しています。
+個人開発ではC++（DXライブラリ）、Unity（C#）を用いたゲーム開発を行っており、GitHubではゲーム作品の実行ファイル、ソースコード、プレイ動画、READMEを公開しています。
+
+---
+
+## 技術スタック
+
+### 言語
+- C#
+- Python
+- C++
+
+### フレームワーク・ライブラリ
+- Unity
+- DXライブラリ
+
+---
+
+## 作品一覧
+
+|作品|使用技術|概要|
+|---|---|---|
+|ライアーズロード(リメイク)|Unity　/　C#|初見殺しトラップの2Dアクションゲーム(リメイク)|
+|[刻限ノマド](https://github.com/seitaro-tsuji/LimitedNomad-Portfolio)|Unity　/　C#|物資収集に時間制限を設けた3Dサバイバルゲーム|
+|[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|初見殺しトラップの2Dアクションゲーム|
+|[ワードビルダー](https://github.com/seitaro-tsuji/WordBuilder-Portfolio)|C++　/　DXライブラリ|文字入力でゴールまでの道を作る2Dゲーム|
+
+詳細は各リポジトリをご覧ください。
+
+---
+
+## 研究
+
+- プラズマの計測データ解析
+- Pythonによる解析コードの開発
+- STFT(短時間フーリエ変換)
+- コヒーレンス解析
+- ヒルベルト変換
+
+---
