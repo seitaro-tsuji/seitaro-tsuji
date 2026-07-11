@@ -27,7 +27,7 @@
 
 |作品|使用技術|概要|
 |---|---|---|
-|ライアーズロード(リメイク)|Unity　/　C#|初見殺しトラップの2Dアクションゲーム(リメイク)|
+|[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|初見殺しトラップの2Dアクションゲーム(リメイク)|
 |[刻限ノマド](https://github.com/seitaro-tsuji/LimitedNomad-Portfolio)|Unity　/　C#|物資収集に時間制限を設けた3Dサバイバルゲーム|
 |[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|初見殺しトラップの2Dアクションゲーム|
 |[ワードビルダー](https://github.com/seitaro-tsuji/WordBuilder-Portfolio)|C++　/　DXライブラリ|文字入力でゴールまでの道を作る2Dゲーム|
