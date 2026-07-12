@@ -26,6 +26,8 @@
 
 ## 作品一覧
 
+以下は、制作したゲーム作品を新しい順にまとめた表です。
+
 |作品|使用技術|概要|
 |---|---|---|
 |[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|初見殺しトラップの2Dアクションゲーム(リメイク)|
@@ -33,7 +35,7 @@
 |[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|初見殺しトラップの2Dアクションゲーム|
 |[ワードビルダー](https://github.com/seitaro-tsuji/WordBuilder-Portfolio)|C++　/　DXライブラリ|文字入力でゴールまでの道を作る2Dゲーム|
 
-詳細は各リポジトリをご覧ください。
+各作品の詳細やスクリーンショット、プレイ動画についてはそれぞれのリポジトリをご覧ください。
 
 ---
 
