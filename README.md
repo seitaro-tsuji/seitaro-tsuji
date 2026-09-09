@@ -28,12 +28,13 @@
 
 以下は、制作したゲーム作品を新しい順にまとめた表です。
 
-|作品|使用技術|概要|
-|---|---|---|
-|[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|初見殺しトラップの2Dアクションゲーム(リメイク)|
-|[刻限ノマド](https://github.com/seitaro-tsuji/LimitedNomad-Portfolio)|Unity　/　C#|物資収集に時間制限を設けた3Dサバイバルゲーム|
-|[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|初見殺しトラップの2Dアクションゲーム|
-|[ワードビルダー](https://github.com/seitaro-tsuji/WordBuilder-Portfolio)|C++　/　DXライブラリ|文字入力でゴールまでの道を作る2Dゲーム|
+|作品|使用技術|制作形態|概要|
+|---|---|---|---|
+|[カスタマーズ・ハイ](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio)|Unity　/　C#|個人開発|能力をカスタマイズして攻略する2Dランアクション|
+|[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|個人開発|初見殺しトラップの2Dアクションゲーム(リメイク)|
+|[刻限ノマド](https://github.com/seitaro-tsuji/LimitedNomad-Portfolio)|Unity　/　C#|個人開発|物資収集に時間制限を設けた3Dサバイバルゲーム|
+|[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|個人開発|初見殺しトラップの2Dアクションゲーム|
+|[ワードビルダー](https://github.com/seitaro-tsuji/WordBuilder-Portfolio)|C++　/　DXライブラリ|個人開発|文字入力でゴールまでの道を作る2Dゲーム|
 
 各作品の詳細やスクリーンショット、プレイ動画についてはそれぞれのリポジトリをご覧ください。
 
