@@ -31,6 +31,7 @@
 |作品|使用技術|制作形態|概要|
 |---|---|---|---|
 |[カスタマーズ・ハイ](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio)|Unity　/　C#|個人開発|能力をカスタマイズして攻略する2Dランアクション|
+|[ワンオペファッションショー]()|Unity　/　C#|3人チームでの開発|オーダーに合うコーディネートを作りハイスコアを目指すゲーム|
 |[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|個人開発|初見殺しトラップの2Dアクションゲーム(リメイク)|
 |[刻限ノマド](https://github.com/seitaro-tsuji/LimitedNomad-Portfolio)|Unity　/　C#|個人開発|物資収集に時間制限を設けた3Dサバイバルゲーム|
 |[ライアーズロード](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)|C++　/　DXライブラリ|個人開発|初見殺しトラップの2Dアクションゲーム|
