@@ -30,6 +30,7 @@
 
 |作品|使用技術|制作形態|概要|
 |---|---|---|---|
+|[KOSSORI PROTOCOL](https://github.com/seitaro-tsuji/KossoriProtocol-Portfolio)|Unity　/　C#|チーム開発(5人)|見下ろし形2Dステルスゲーム|
 |[カスタマーズ・ハイ](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio)|Unity　/　C#|個人開発|能力をカスタマイズして攻略する2Dランアクション|
 |[ワンオペファッションショー](https://github.com/seitaro-tsuji/OneOpeFashionShow-Portofolio)|Unity　/　C#|チーム開発(3人)|オーダーに合うコーディネートを作りハイスコアを目指すゲーム|
 |[ライアーズロード(リメイク)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Portfolio)|Unity　/　C#|個人開発|初見殺しトラップの2Dアクションゲーム(リメイク)|
